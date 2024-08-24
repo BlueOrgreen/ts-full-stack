@@ -6,7 +6,7 @@ const App: FC = () => {
     return (
         <div className={$styles.app}>
             <div className={$styles.container}>
-                <h2 className="tw-text-center">First React App</h2>
+                <h2 className="tw-∏text-center">First React App</h2>
                 <div className="tw-flex tw-items-center tw-flex-col">
                     <div className="tw-flex-auto tw-my-5">
                         <a
