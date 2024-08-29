@@ -1,3 +1,9 @@
+@layer tailwind-base , antd;
+
+@layer tailwind-base {
+    @tailwind base;
+}
+
 @layer base {
     html {
         font-family: var(--font-family-standard);

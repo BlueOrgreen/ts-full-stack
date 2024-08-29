@@ -12,11 +12,18 @@
         "preview": "vite preview"
     },
     "dependencies": {
+        "@ant-design/cssinjs": "^1.21.1",
+        "antd": "^5.20.2",
+        "clsx": "^2.1.1",
+        "dayjs": "^1.11.13",
         "deepmerge": "^4.3.1",
+        "immer": "^10.1.1",
+        "lodash": "^4.17.21",
         "react": "^18.3.1",
         "react-dom": "^18.3.1"
     },
     "devDependencies": {
+        "@types/lodash": "^4.17.7",
         "@types/node": "^20.14.11",
         "@types/react": "^18.3.3",
         "@types/react-dom": "^18.3.0",
